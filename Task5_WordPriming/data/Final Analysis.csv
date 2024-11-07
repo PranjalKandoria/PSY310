@@ -1,0 +1,91 @@
+﻿participant 1,,,,,,,
+test,References,old_new,textbox.text,corr.resp NP,corr.resp primed ,,
+l_pt_p,laptop,old,laptop,,yes,,
+_ou_e,mouse,old,mouse,,yes, no of primed hit ,14
+_r_is_,cruise,old,,,, proportion of hit ,0.933333333
+c_s_io_,cushion,old,cushion,,yes,,
+_a_bl_,marble,old,marble,,yes, no of non primed hit ,4
+p_li_e,police,old,police,,yes, proportion of hit ,0.8
+c_m_ra,camera,new,camera,yes,,,
+k_y_,keys,old,keys,,yes,,
+p_s_r_,pastry,old,pastry,,yes, prime score ,0.133333333
+_o_rd,board,old,board,,yes,,
+v_s_,vase,new,vase,yes,,,
+_ha_t,chart,old,chart,,yes,,
+_oo_,book,old,book,,yes,,
+bo_t_e,bottle,new,bottle,yes,,,
+ta_l_,table,new,,,,,
+_ho_e,phone,old,phone,,yes,,
+t_hi_t,tshirt,old,tshirt,,yes,,
+p_nc_l,pencil,new,pencil,yes,,,
+c_s_,case,old,case,,yes,,
+p_st_r,poster,old,poster,,yes,,
+,,,,,,,
+participant 2,,,,,,,
+test,References,old_new,textbox.text,,,,
+_ha_t,chart,old,chart,,yes,,
+c_m_ra,camera,new,camera,yes,,,
+_r_is_,cruise,old,cruise,,yes,,
+c_s_,case,old,case,,yes, no of primed hit ,15
+_o_rd,board,old,board,,yes, proportion of hit ,1
+_a_bl_,marble,old,marble,,yes,,
+t_hi_t,tshirt,old,tshirt,,yes, no of non primed hit ,4
+p_li_e,police,old,police,,yes, proportion of hit ,0.8
+ta_l_,table,new,table,yes,,,
+p_st_r,poster,old,poster,,yes,,
+bo_t_e,bottle,new,,,, prime score ,0.2
+c_s_io_,cushion,old,cushion,,yes,,
+_oo_,book,old,book,,yes,,
+_ou_e,mouse,old,mouse,,yes,,
+_ho_e,phone,old,phone,,yes,,
+p_nc_l,pencil,new,pencil,yes,,,
+v_s_,vase,new,vase,yes,,,
+k_y_,keys,old,keys,,yes,,
+l_pt_p,laptop,old,laptop,,yes,,
+p_s_r_,pastry,old,pastry,,yes,,
+,,,,,,,
+participant 3,,,,,,,
+test,References,old_new,textbox.text,,,,
+_a_bl_,marble,old,table,,yes,,
+bo_t_e,bottle,new,bottle,yes,,,
+p_nc_l,pencil,new,pencil,yes,,,
+_o_rd,board,old,board,,yes, no of primed hit ,14
+v_s_,vase,new,vase,yes,, proportion of hit ,0.933333333
+_ou_e,mouse,old,mouse,,yes,,
+c_s_io_,cushion,old,cushion,,yes, no of non primed hit ,5
+_oo_,book,old,book,,yes, proportion of hit ,1
+t_hi_t,tshirt,old,tshirt,,yes,,
+k_y_,keys,old,keys,,yes,,
+c_m_ra,camera,new,camera,yes,, prime score ,-0.066666667
+p_st_r,poster,old,poster,,yes,,
+ta_l_,table,new,table,yes,,,
+p_s_r_,pastry,old,pastry,,yes,,
+c_s_,case,old,case,,yes,,
+p_li_e,police,old,police,,yes,,
+_r_is_,cruise,old,,,,,
+_ho_e,phone,old,phone,,yes,,
+_ha_t,chart,old,chart,,yes,,
+l_pt_p,laptop,old,laptop,,yes,,
+,,,,,,,
+participant 4,,,,,,,
+test,References,old_new,textbox.text,,,,
+bo_t_e,bottle,new,bottle,yes,,,
+_r_is_,cruise,old,cruise,,yes,,
+_a_bl_,marble,old,table,,yes, no of primed hit ,13
+t_hi_t,tshirt,old,tshirt,,yes, proportion of hit ,0.866666667
+ta_l_,table,new,table,yes,,,
+p_nc_l,pencil,new,pencil,yes,, no of non primed hit ,4
+_oo_,book,old,pool,,, proportion of hit ,0.8
+v_s_,vase,new,vise,,,,
+k_y_,keys,old,keys,,yes,,
+l_pt_p,laptop,old,laptop,,yes, prime score ,0.066666667
+c_s_io_,cushion,old,cushion,,yes,,
+_ho_e,phone,old,phone,,yes,,
+c_s_,case,old,case,,yes,,
+_ha_t,chart,old,chart,,yes,,
+p_st_r,poster,old,poster,,yes,,
+p_li_e,police,old,police,,yes,,
+_o_rd,board,old,board,,yes,,
+p_s_r_,pastry,old,pastry,,yes,,
+_ou_e,mouse,old,,,,,
+c_m_ra,camera,new,camera,yes,,,
